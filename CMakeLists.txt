@@ -5,11 +5,14 @@ set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_COMPILER "g++")
 set(CMAKE_CXX_FLAGS "-Wall -Wextra -O3")
 
-set(SOURCES )
+# Dodaj źródła
+set(SOURCES
+    app/src/parser.cpp
+)
 
 add_executable(annealing.out app/main.cpp ${SOURCES})
 
-target_include_directories(annealing.out PRIVATE inc)
+target_include_directories(annealing.out PRIVATE app/include)
 
 #  --- Uncomment after creating first testcase ---
 # Include GoogleTest
