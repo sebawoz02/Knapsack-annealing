@@ -3,11 +3,7 @@
 
 #include <vector>
 #include <string>
-
-struct Item {
-    int weight;
-    int profit;
-};
+#include <item.hpp>
 
 // Parsuje CSV i zwraca listę przedmiotów oraz pojemność plecaka
 std::pair<std::vector<Item>, int> parse_csv(const std::string& filename);

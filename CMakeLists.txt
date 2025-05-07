@@ -8,6 +8,7 @@ set(CMAKE_CXX_FLAGS "-Wall -Wextra -O3")
 # Dodaj źródła
 set(SOURCES
     app/src/parser.cpp
+    app/src/annealing.cpp
 )
 
 add_executable(annealing.out app/main.cpp ${SOURCES})
