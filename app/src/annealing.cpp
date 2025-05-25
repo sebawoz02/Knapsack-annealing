@@ -1,7 +1,55 @@
 #include <annealing.hpp>
 #include <random>
+#include <algorithm>
 
 static std::vector<int> generate_neighbor(const std::vector<int>& current_solution);
+static std::vector<int> generate_greedy_solution(const std::vector<Item>& items, int max_weight);
+static std::vector<int> generate_random_solution(const std::vector<Item>& items, int max_weight);
+
+static std::vector<int> generate_greedy_solution(const std::vector<Item>& items, int max_weight) {
+    size_t n = items.size();
+    std::vector<std::pair<double, int>> ratio_index;
+
+    for (size_t i = 0; i < n; ++i) {
+        double ratio = (double)items[i].profit / items[i].weight;
+        ratio_index.emplace_back(ratio, i);
+    }
+
+    // Sortujemy malejąco po stosunku value/weight
+    std::sort(ratio_index.rbegin(), ratio_index.rend());
+
+    std::vector<int> solution(n, 0);
+    int current_weight = 0;
+
+    for (auto& [ratio, idx] : ratio_index) {
+        if (current_weight + items[idx].weight <= max_weight) {
+            solution[idx] = 1;
+            current_weight += items[idx].weight;
+        }
+    }
+    return solution;
+}
+
+static std::vector<int> generate_random_solution(const std::vector<Item>& items, int max_weight) {
+    size_t n = items.size();
+    std::vector<int> solution(n, 0);
+    std::vector<int> indices(n);
+    iota(indices.begin(), indices.end(), 0); // [0, 1, ..., n-1]
+
+    std::random_device rd;
+    std::mt19937 gen(rd());
+    shuffle(indices.begin(), indices.end(), gen);
+
+    int current_weight = 0;
+    for (int i : indices) {
+        if (current_weight + items[i].weight <= max_weight) {
+            solution[i] = 1;
+            current_weight += items[i].weight;
+        }
+    }
+    return solution;
+}
+
 
 double evaluate(const std::vector<int>& solution, const std::vector<Item>& items, int max_weight)
 {
@@ -23,7 +71,7 @@ std::vector<int> simulated_annealing(const std::vector<Item>& items, int max_wei
     std::mt19937 gen(rd());
     std::uniform_real_distribution<> prob_dist(0.0, 1.0);
 
-    std::vector<int> current_solution(items.size(), 0);
+    std::vector<int> current_solution = generate_random_solution(items, max_weight);
     std::vector<int> best_solution = current_solution;
 
     double T = T_init;
