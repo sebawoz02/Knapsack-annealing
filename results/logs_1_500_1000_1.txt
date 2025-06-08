@@ -1,0 +1,2340 @@
+========================================================
+Testing T_init=500.0, T_min=0.01, alpha=0.90, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 318 ms
+Wartosc najlepszego rozwiazania: 15578
+Run #2
+Czas wykonania: 362 ms
+Wartosc najlepszego rozwiazania: 20109
+Run #3
+Czas wykonania: 344 ms
+Wartosc najlepszego rozwiazania: 21235
+Run #4
+Czas wykonania: 344 ms
+Wartosc najlepszego rozwiazania: 20231
+Run #5
+Czas wykonania: 341 ms
+Wartosc najlepszego rozwiazania: 17407
+Run #6
+Czas wykonania: 345 ms
+Wartosc najlepszego rozwiazania: 24066
+Run #7
+Czas wykonania: 344 ms
+Wartosc najlepszego rozwiazania: 23070
+Run #8
+Czas wykonania: 343 ms
+Wartosc najlepszego rozwiazania: 15428
+Run #9
+Czas wykonania: 345 ms
+Wartosc najlepszego rozwiazania: 24369
+Run #10
+Czas wykonania: 345 ms
+Wartosc najlepszego rozwiazania: 24236
+Run #11
+Czas wykonania: 343 ms
+Wartosc najlepszego rozwiazania: 17297
+Run #12
+Czas wykonania: 338 ms
+Wartosc najlepszego rozwiazania: 23153
+Run #13
+Czas wykonania: 316 ms
+Wartosc najlepszego rozwiazania: 19450
+Run #14
+Czas wykonania: 345 ms
+Wartosc najlepszego rozwiazania: 25930
+Run #15
+Czas wykonania: 344 ms
+Wartosc najlepszego rozwiazania: 17457
+Run #16
+Czas wykonania: 315 ms
+Wartosc najlepszego rozwiazania: 14633
+Run #17
+Czas wykonania: 342 ms
+Wartosc najlepszego rozwiazania: 18287
+Run #18
+Czas wykonania: 344 ms
+Wartosc najlepszego rozwiazania: 19559
+Run #19
+Czas wykonania: 344 ms
+Wartosc najlepszego rozwiazania: 15925
+Run #20
+Czas wykonania: 344 ms
+Wartosc najlepszego rozwiazania: 21472
+========================================================
+
+========================================================
+Testing T_init=500.0, T_min=0.01, alpha=0.90, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 660 ms
+Wartosc najlepszego rozwiazania: 21085
+Run #2
+Czas wykonania: 659 ms
+Wartosc najlepszego rozwiazania: 26391
+Run #3
+Czas wykonania: 658 ms
+Wartosc najlepszego rozwiazania: 26623
+Run #4
+Czas wykonania: 659 ms
+Wartosc najlepszego rozwiazania: 20028
+Run #5
+Czas wykonania: 660 ms
+Wartosc najlepszego rozwiazania: 23051
+Run #6
+Czas wykonania: 631 ms
+Wartosc najlepszego rozwiazania: 24384
+Run #7
+Czas wykonania: 657 ms
+Wartosc najlepszego rozwiazania: 23808
+Run #8
+Czas wykonania: 658 ms
+Wartosc najlepszego rozwiazania: 27629
+Run #9
+Czas wykonania: 631 ms
+Wartosc najlepszego rozwiazania: 25410
+Run #10
+Czas wykonania: 660 ms
+Wartosc najlepszego rozwiazania: 25091
+Run #11
+Czas wykonania: 656 ms
+Wartosc najlepszego rozwiazania: 26141
+Run #12
+Czas wykonania: 659 ms
+Wartosc najlepszego rozwiazania: 25110
+Run #13
+Czas wykonania: 635 ms
+Wartosc najlepszego rozwiazania: 23906
+Run #14
+Czas wykonania: 634 ms
+Wartosc najlepszego rozwiazania: 26853
+Run #15
+Czas wykonania: 632 ms
+Wartosc najlepszego rozwiazania: 25391
+Run #16
+Czas wykonania: 658 ms
+Wartosc najlepszego rozwiazania: 25285
+Run #17
+Czas wykonania: 631 ms
+Wartosc najlepszego rozwiazania: 23727
+Run #18
+Czas wykonania: 660 ms
+Wartosc najlepszego rozwiazania: 25705
+Run #19
+Czas wykonania: 659 ms
+Wartosc najlepszego rozwiazania: 22998
+Run #20
+Czas wykonania: 660 ms
+Wartosc najlepszego rozwiazania: 27063
+========================================================
+
+========================================================
+Testing T_init=500.0, T_min=0.01, alpha=0.95, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 680 ms
+Wartosc najlepszego rozwiazania: 24927
+Run #2
+Czas wykonania: 675 ms
+Wartosc najlepszego rozwiazania: 22634
+Run #3
+Czas wykonania: 646 ms
+Wartosc najlepszego rozwiazania: 22938
+Run #4
+Czas wykonania: 648 ms
+Wartosc najlepszego rozwiazania: 23596
+Run #5
+Czas wykonania: 675 ms
+Wartosc najlepszego rozwiazania: 25675
+Run #6
+Czas wykonania: 648 ms
+Wartosc najlepszego rozwiazania: 25130
+Run #7
+Czas wykonania: 675 ms
+Wartosc najlepszego rozwiazania: 23588
+Run #8
+Czas wykonania: 674 ms
+Wartosc najlepszego rozwiazania: 21190
+Run #9
+Czas wykonania: 675 ms
+Wartosc najlepszego rozwiazania: 21904
+Run #10
+Czas wykonania: 674 ms
+Wartosc najlepszego rozwiazania: 27297
+Run #11
+Czas wykonania: 676 ms
+Wartosc najlepszego rozwiazania: 26713
+Run #12
+Czas wykonania: 673 ms
+Wartosc najlepszego rozwiazania: 26800
+Run #13
+Czas wykonania: 647 ms
+Wartosc najlepszego rozwiazania: 22689
+Run #14
+Czas wykonania: 668 ms
+Wartosc najlepszego rozwiazania: 21370
+Run #15
+Czas wykonania: 674 ms
+Wartosc najlepszego rozwiazania: 27039
+Run #16
+Czas wykonania: 675 ms
+Wartosc najlepszego rozwiazania: 26035
+Run #17
+Czas wykonania: 678 ms
+Wartosc najlepszego rozwiazania: 25576
+Run #18
+Czas wykonania: 676 ms
+Wartosc najlepszego rozwiazania: 19731
+Run #19
+Czas wykonania: 673 ms
+Wartosc najlepszego rozwiazania: 23939
+Run #20
+Czas wykonania: 672 ms
+Wartosc najlepszego rozwiazania: 22584
+========================================================
+
+========================================================
+Testing T_init=500.0, T_min=0.01, alpha=0.95, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 1325 ms
+Wartosc najlepszego rozwiazania: 26270
+Run #2
+Czas wykonania: 1332 ms
+Wartosc najlepszego rozwiazania: 25678
+Run #3
+Czas wykonania: 1323 ms
+Wartosc najlepszego rozwiazania: 25880
+Run #4
+Czas wykonania: 1322 ms
+Wartosc najlepszego rozwiazania: 27390
+Run #5
+Czas wykonania: 1322 ms
+Wartosc najlepszego rozwiazania: 27220
+Run #6
+Czas wykonania: 1321 ms
+Wartosc najlepszego rozwiazania: 24770
+Run #7
+Czas wykonania: 1324 ms
+Wartosc najlepszego rozwiazania: 26169
+Run #8
+Czas wykonania: 1319 ms
+Wartosc najlepszego rozwiazania: 27650
+Run #9
+Czas wykonania: 1322 ms
+Wartosc najlepszego rozwiazania: 27116
+Run #10
+Czas wykonania: 1326 ms
+Wartosc najlepszego rozwiazania: 27985
+Run #11
+Czas wykonania: 1297 ms
+Wartosc najlepszego rozwiazania: 26753
+Run #12
+Czas wykonania: 1324 ms
+Wartosc najlepszego rozwiazania: 27292
+Run #13
+Czas wykonania: 1322 ms
+Wartosc najlepszego rozwiazania: 27356
+Run #14
+Czas wykonania: 1323 ms
+Wartosc najlepszego rozwiazania: 25234
+Run #15
+Czas wykonania: 1321 ms
+Wartosc najlepszego rozwiazania: 25900
+Run #16
+Czas wykonania: 1320 ms
+Wartosc najlepszego rozwiazania: 26259
+Run #17
+Czas wykonania: 1322 ms
+Wartosc najlepszego rozwiazania: 26326
+Run #18
+Czas wykonania: 1323 ms
+Wartosc najlepszego rozwiazania: 27447
+Run #19
+Czas wykonania: 1325 ms
+Wartosc najlepszego rozwiazania: 26215
+Run #20
+Czas wykonania: 1319 ms
+Wartosc najlepszego rozwiazania: 25400
+========================================================
+
+========================================================
+Testing T_init=500.0, T_min=0.01, alpha=0.99, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 3335 ms
+Wartosc najlepszego rozwiazania: 27841
+Run #2
+Czas wykonania: 3338 ms
+Wartosc najlepszego rozwiazania: 27141
+Run #3
+Czas wykonania: 3327 ms
+Wartosc najlepszego rozwiazania: 27094
+Run #4
+Czas wykonania: 3331 ms
+Wartosc najlepszego rozwiazania: 26103
+Run #5
+Czas wykonania: 3349 ms
+Wartosc najlepszego rozwiazania: 27945
+Run #6
+Czas wykonania: 3330 ms
+Wartosc najlepszego rozwiazania: 28187
+Run #7
+Czas wykonania: 3336 ms
+Wartosc najlepszego rozwiazania: 28350
+Run #8
+Czas wykonania: 3341 ms
+Wartosc najlepszego rozwiazania: 27976
+Run #9
+Czas wykonania: 3335 ms
+Wartosc najlepszego rozwiazania: 28363
+Run #10
+Czas wykonania: 3329 ms
+Wartosc najlepszego rozwiazania: 27994
+Run #11
+Czas wykonania: 3335 ms
+Wartosc najlepszego rozwiazania: 28112
+Run #12
+Czas wykonania: 3331 ms
+Wartosc najlepszego rozwiazania: 28431
+Run #13
+Czas wykonania: 3331 ms
+Wartosc najlepszego rozwiazania: 27038
+Run #14
+Czas wykonania: 3333 ms
+Wartosc najlepszego rozwiazania: 28794
+Run #15
+Czas wykonania: 3313 ms
+Wartosc najlepszego rozwiazania: 26796
+Run #16
+Czas wykonania: 3301 ms
+Wartosc najlepszego rozwiazania: 27337
+Run #17
+Czas wykonania: 3304 ms
+Wartosc najlepszego rozwiazania: 28435
+Run #18
+Czas wykonania: 3300 ms
+Wartosc najlepszego rozwiazania: 27064
+Run #19
+Czas wykonania: 3333 ms
+Wartosc najlepszego rozwiazania: 27033
+Run #20
+Czas wykonania: 3325 ms
+Wartosc najlepszego rozwiazania: 28061
+========================================================
+
+========================================================
+Testing T_init=500.0, T_min=0.01, alpha=0.99, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 6643 ms
+Wartosc najlepszego rozwiazania: 28511
+Run #2
+Czas wykonania: 6640 ms
+Wartosc najlepszego rozwiazania: 27964
+Run #3
+Czas wykonania: 6645 ms
+Wartosc najlepszego rozwiazania: 28347
+Run #4
+Czas wykonania: 6634 ms
+Wartosc najlepszego rozwiazania: 28360
+Run #5
+Czas wykonania: 6641 ms
+Wartosc najlepszego rozwiazania: 28041
+Run #6
+Czas wykonania: 6615 ms
+Wartosc najlepszego rozwiazania: 28270
+Run #7
+Czas wykonania: 6648 ms
+Wartosc najlepszego rozwiazania: 27256
+Run #8
+Czas wykonania: 6640 ms
+Wartosc najlepszego rozwiazania: 28524
+Run #9
+Czas wykonania: 6632 ms
+Wartosc najlepszego rozwiazania: 27478
+Run #10
+Czas wykonania: 6640 ms
+Wartosc najlepszego rozwiazania: 27448
+Run #11
+Czas wykonania: 6652 ms
+Wartosc najlepszego rozwiazania: 28487
+Run #12
+Czas wykonania: 6626 ms
+Wartosc najlepszego rozwiazania: 27234
+Run #13
+Czas wykonania: 6664 ms
+Wartosc najlepszego rozwiazania: 27409
+Run #14
+Czas wykonania: 6633 ms
+Wartosc najlepszego rozwiazania: 27646
+Run #15
+Czas wykonania: 6661 ms
+Wartosc najlepszego rozwiazania: 27773
+Run #16
+Czas wykonania: 6635 ms
+Wartosc najlepszego rozwiazania: 28460
+Run #17
+Czas wykonania: 6658 ms
+Wartosc najlepszego rozwiazania: 26750
+Run #18
+Czas wykonania: 6643 ms
+Wartosc najlepszego rozwiazania: 28260
+Run #19
+Czas wykonania: 6642 ms
+Wartosc najlepszego rozwiazania: 28497
+Run #20
+Czas wykonania: 6643 ms
+Wartosc najlepszego rozwiazania: 28458
+========================================================
+
+========================================================
+Testing T_init=500.0, T_min=0.1, alpha=0.90, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 275 ms
+Wartosc najlepszego rozwiazania: 22204
+Run #2
+Czas wykonania: 248 ms
+Wartosc najlepszego rozwiazania: 25259
+Run #3
+Czas wykonania: 248 ms
+Wartosc najlepszego rozwiazania: 24329
+Run #4
+Czas wykonania: 248 ms
+Wartosc najlepszego rozwiazania: 22058
+Run #5
+Czas wykonania: 248 ms
+Wartosc najlepszego rozwiazania: 23548
+Run #6
+Czas wykonania: 275 ms
+Wartosc najlepszego rozwiazania: 18658
+Run #7
+Czas wykonania: 271 ms
+Wartosc najlepszego rozwiazania: 20325
+Run #8
+Czas wykonania: 249 ms
+Wartosc najlepszego rozwiazania: 21236
+Run #9
+Czas wykonania: 250 ms
+Wartosc najlepszego rozwiazania: 15285
+Run #10
+Czas wykonania: 276 ms
+Wartosc najlepszego rozwiazania: 23014
+Run #11
+Czas wykonania: 249 ms
+Wartosc najlepszego rozwiazania: 25657
+Run #12
+Czas wykonania: 248 ms
+Wartosc najlepszego rozwiazania: 25969
+Run #13
+Czas wykonania: 277 ms
+Wartosc najlepszego rozwiazania: 20572
+Run #14
+Czas wykonania: 249 ms
+Wartosc najlepszego rozwiazania: 16652
+Run #15
+Czas wykonania: 248 ms
+Wartosc najlepszego rozwiazania: 21731
+Run #16
+Czas wykonania: 276 ms
+Wartosc najlepszego rozwiazania: 19435
+Run #17
+Czas wykonania: 248 ms
+Wartosc najlepszego rozwiazania: 17030
+Run #18
+Czas wykonania: 277 ms
+Wartosc najlepszego rozwiazania: 18767
+Run #19
+Czas wykonania: 294 ms
+Wartosc najlepszego rozwiazania: 21431
+Run #20
+Czas wykonania: 274 ms
+Wartosc najlepszego rozwiazania: 21560
+========================================================
+
+========================================================
+Testing T_init=500.0, T_min=0.1, alpha=0.90, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 498 ms
+Wartosc najlepszego rozwiazania: 26120
+Run #2
+Czas wykonania: 523 ms
+Wartosc najlepszego rozwiazania: 23771
+Run #3
+Czas wykonania: 525 ms
+Wartosc najlepszego rozwiazania: 22011
+Run #4
+Czas wykonania: 524 ms
+Wartosc najlepszego rozwiazania: 24010
+Run #5
+Czas wykonania: 526 ms
+Wartosc najlepszego rozwiazania: 24711
+Run #6
+Czas wykonania: 525 ms
+Wartosc najlepszego rozwiazania: 25937
+Run #7
+Czas wykonania: 523 ms
+Wartosc najlepszego rozwiazania: 26579
+Run #8
+Czas wykonania: 523 ms
+Wartosc najlepszego rozwiazania: 24603
+Run #9
+Czas wykonania: 524 ms
+Wartosc najlepszego rozwiazania: 24651
+Run #10
+Czas wykonania: 543 ms
+Wartosc najlepszego rozwiazania: 23437
+Run #11
+Czas wykonania: 526 ms
+Wartosc najlepszego rozwiazania: 26826
+Run #12
+Czas wykonania: 523 ms
+Wartosc najlepszego rozwiazania: 22259
+Run #13
+Czas wykonania: 525 ms
+Wartosc najlepszego rozwiazania: 24804
+Run #14
+Czas wykonania: 526 ms
+Wartosc najlepszego rozwiazania: 22567
+Run #15
+Czas wykonania: 525 ms
+Wartosc najlepszego rozwiazania: 24312
+Run #16
+Czas wykonania: 525 ms
+Wartosc najlepszego rozwiazania: 25914
+Run #17
+Czas wykonania: 524 ms
+Wartosc najlepszego rozwiazania: 23171
+Run #18
+Czas wykonania: 523 ms
+Wartosc najlepszego rozwiazania: 24618
+Run #19
+Czas wykonania: 516 ms
+Wartosc najlepszego rozwiazania: 24057
+Run #20
+Czas wykonania: 497 ms
+Wartosc najlepszego rozwiazania: 25211
+========================================================
+
+========================================================
+Testing T_init=500.0, T_min=0.1, alpha=0.95, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 513 ms
+Wartosc najlepszego rozwiazania: 26003
+Run #2
+Czas wykonania: 514 ms
+Wartosc najlepszego rozwiazania: 24049
+Run #3
+Czas wykonania: 514 ms
+Wartosc najlepszego rozwiazania: 24909
+Run #4
+Czas wykonania: 537 ms
+Wartosc najlepszego rozwiazania: 26336
+Run #5
+Czas wykonania: 540 ms
+Wartosc najlepszego rozwiazania: 25991
+Run #6
+Czas wykonania: 541 ms
+Wartosc najlepszego rozwiazania: 26088
+Run #7
+Czas wykonania: 541 ms
+Wartosc najlepszego rozwiazania: 22501
+Run #8
+Czas wykonania: 541 ms
+Wartosc najlepszego rozwiazania: 23071
+Run #9
+Czas wykonania: 538 ms
+Wartosc najlepszego rozwiazania: 24147
+Run #10
+Czas wykonania: 541 ms
+Wartosc najlepszego rozwiazania: 27042
+Run #11
+Czas wykonania: 539 ms
+Wartosc najlepszego rozwiazania: 24057
+Run #12
+Czas wykonania: 541 ms
+Wartosc najlepszego rozwiazania: 24886
+Run #13
+Czas wykonania: 539 ms
+Wartosc najlepszego rozwiazania: 27539
+Run #14
+Czas wykonania: 539 ms
+Wartosc najlepszego rozwiazania: 24305
+Run #15
+Czas wykonania: 539 ms
+Wartosc najlepszego rozwiazania: 21618
+Run #16
+Czas wykonania: 540 ms
+Wartosc najlepszego rozwiazania: 20542
+Run #17
+Czas wykonania: 512 ms
+Wartosc najlepszego rozwiazania: 21330
+Run #18
+Czas wykonania: 539 ms
+Wartosc najlepszego rozwiazania: 25604
+Run #19
+Czas wykonania: 540 ms
+Wartosc najlepszego rozwiazania: 26161
+Run #20
+Czas wykonania: 538 ms
+Wartosc najlepszego rozwiazania: 21953
+========================================================
+
+========================================================
+Testing T_init=500.0, T_min=0.1, alpha=0.95, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 1026 ms
+Wartosc najlepszego rozwiazania: 25268
+Run #2
+Czas wykonania: 1055 ms
+Wartosc najlepszego rozwiazania: 28201
+Run #3
+Czas wykonania: 1050 ms
+Wartosc najlepszego rozwiazania: 25628
+Run #4
+Czas wykonania: 1054 ms
+Wartosc najlepszego rozwiazania: 24798
+Run #5
+Czas wykonania: 1051 ms
+Wartosc najlepszego rozwiazania: 27149
+Run #6
+Czas wykonania: 1052 ms
+Wartosc najlepszego rozwiazania: 27540
+Run #7
+Czas wykonania: 1056 ms
+Wartosc najlepszego rozwiazania: 27464
+Run #8
+Czas wykonania: 1052 ms
+Wartosc najlepszego rozwiazania: 27787
+Run #9
+Czas wykonania: 1053 ms
+Wartosc najlepszego rozwiazania: 27734
+Run #10
+Czas wykonania: 1053 ms
+Wartosc najlepszego rozwiazania: 25487
+Run #11
+Czas wykonania: 1046 ms
+Wartosc najlepszego rozwiazania: 26488
+Run #12
+Czas wykonania: 1053 ms
+Wartosc najlepszego rozwiazania: 25487
+Run #13
+Czas wykonania: 1026 ms
+Wartosc najlepszego rozwiazania: 26748
+Run #14
+Czas wykonania: 1041 ms
+Wartosc najlepszego rozwiazania: 26852
+Run #15
+Czas wykonania: 1055 ms
+Wartosc najlepszego rozwiazania: 25561
+Run #16
+Czas wykonania: 1051 ms
+Wartosc najlepszego rozwiazania: 26994
+Run #17
+Czas wykonania: 1052 ms
+Wartosc najlepszego rozwiazania: 27080
+Run #18
+Czas wykonania: 1027 ms
+Wartosc najlepszego rozwiazania: 24072
+Run #19
+Czas wykonania: 1046 ms
+Wartosc najlepszego rozwiazania: 27562
+Run #20
+Czas wykonania: 1025 ms
+Wartosc najlepszego rozwiazania: 27993
+========================================================
+
+========================================================
+Testing T_init=500.0, T_min=0.1, alpha=0.99, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 2634 ms
+Wartosc najlepszego rozwiazania: 28092
+Run #2
+Czas wykonania: 2608 ms
+Wartosc najlepszego rozwiazania: 27998
+Run #3
+Czas wykonania: 2632 ms
+Wartosc najlepszego rozwiazania: 27659
+Run #4
+Czas wykonania: 2611 ms
+Wartosc najlepszego rozwiazania: 27259
+Run #5
+Czas wykonania: 2604 ms
+Wartosc najlepszego rozwiazania: 27775
+Run #6
+Czas wykonania: 2603 ms
+Wartosc najlepszego rozwiazania: 27768
+Run #7
+Czas wykonania: 2608 ms
+Wartosc najlepszego rozwiazania: 28190
+Run #8
+Czas wykonania: 2638 ms
+Wartosc najlepszego rozwiazania: 27045
+Run #9
+Czas wykonania: 2605 ms
+Wartosc najlepszego rozwiazania: 25591
+Run #10
+Czas wykonania: 2631 ms
+Wartosc najlepszego rozwiazania: 27860
+Run #11
+Czas wykonania: 2635 ms
+Wartosc najlepszego rozwiazania: 28067
+Run #12
+Czas wykonania: 2636 ms
+Wartosc najlepszego rozwiazania: 28397
+Run #13
+Czas wykonania: 2632 ms
+Wartosc najlepszego rozwiazania: 26288
+Run #14
+Czas wykonania: 2635 ms
+Wartosc najlepszego rozwiazania: 28173
+Run #15
+Czas wykonania: 2633 ms
+Wartosc najlepszego rozwiazania: 27590
+Run #16
+Czas wykonania: 2629 ms
+Wartosc najlepszego rozwiazania: 26304
+Run #17
+Czas wykonania: 2629 ms
+Wartosc najlepszego rozwiazania: 28634
+Run #18
+Czas wykonania: 2602 ms
+Wartosc najlepszego rozwiazania: 28549
+Run #19
+Czas wykonania: 2623 ms
+Wartosc najlepszego rozwiazania: 27974
+Run #20
+Czas wykonania: 2630 ms
+Wartosc najlepszego rozwiazania: 26785
+========================================================
+
+========================================================
+Testing T_init=500.0, T_min=0.1, alpha=0.99, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 5237 ms
+Wartosc najlepszego rozwiazania: 28251
+Run #2
+Czas wykonania: 5243 ms
+Wartosc najlepszego rozwiazania: 28201
+Run #3
+Czas wykonania: 5242 ms
+Wartosc najlepszego rozwiazania: 27405
+Run #4
+Czas wykonania: 5242 ms
+Wartosc najlepszego rozwiazania: 27839
+Run #5
+Czas wykonania: 5241 ms
+Wartosc najlepszego rozwiazania: 27952
+Run #6
+Czas wykonania: 5233 ms
+Wartosc najlepszego rozwiazania: 26609
+Run #7
+Czas wykonania: 5240 ms
+Wartosc najlepszego rozwiazania: 28554
+Run #8
+Czas wykonania: 5245 ms
+Wartosc najlepszego rozwiazania: 27431
+Run #9
+Czas wykonania: 5246 ms
+Wartosc najlepszego rozwiazania: 28267
+Run #10
+Czas wykonania: 5233 ms
+Wartosc najlepszego rozwiazania: 28160
+Run #11
+Czas wykonania: 5209 ms
+Wartosc najlepszego rozwiazania: 28425
+Run #12
+Czas wykonania: 5199 ms
+Wartosc najlepszego rozwiazania: 27853
+Run #13
+Czas wykonania: 5211 ms
+Wartosc najlepszego rozwiazania: 27778
+Run #14
+Czas wykonania: 5209 ms
+Wartosc najlepszego rozwiazania: 26111
+Run #15
+Czas wykonania: 5235 ms
+Wartosc najlepszego rozwiazania: 28117
+Run #16
+Czas wykonania: 5238 ms
+Wartosc najlepszego rozwiazania: 28617
+Run #17
+Czas wykonania: 5207 ms
+Wartosc najlepszego rozwiazania: 28044
+Run #18
+Czas wykonania: 5206 ms
+Wartosc najlepszego rozwiazania: 27188
+Run #19
+Czas wykonania: 5217 ms
+Wartosc najlepszego rozwiazania: 26960
+Run #20
+Czas wykonania: 5220 ms
+Wartosc najlepszego rozwiazania: 28389
+========================================================
+
+========================================================
+Testing T_init=1000.0, T_min=0.01, alpha=0.90, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 361 ms
+Wartosc najlepszego rozwiazania: 24939
+Run #2
+Czas wykonania: 364 ms
+Wartosc najlepszego rozwiazania: 27120
+Run #3
+Czas wykonania: 365 ms
+Wartosc najlepszego rozwiazania: 19922
+Run #4
+Czas wykonania: 355 ms
+Wartosc najlepszego rozwiazania: 25025
+Run #5
+Czas wykonania: 366 ms
+Wartosc najlepszego rozwiazania: 25554
+Run #6
+Czas wykonania: 365 ms
+Wartosc najlepszego rozwiazania: 23624
+Run #7
+Czas wykonania: 364 ms
+Wartosc najlepszego rozwiazania: 23378
+Run #8
+Czas wykonania: 339 ms
+Wartosc najlepszego rozwiazania: 21711
+Run #9
+Czas wykonania: 367 ms
+Wartosc najlepszego rozwiazania: 23852
+Run #10
+Czas wykonania: 365 ms
+Wartosc najlepszego rozwiazania: 26408
+Run #11
+Czas wykonania: 338 ms
+Wartosc najlepszego rozwiazania: 22800
+Run #12
+Czas wykonania: 366 ms
+Wartosc najlepszego rozwiazania: 23017
+Run #13
+Czas wykonania: 364 ms
+Wartosc najlepszego rozwiazania: 23148
+Run #14
+Czas wykonania: 360 ms
+Wartosc najlepszego rozwiazania: 24024
+Run #15
+Czas wykonania: 365 ms
+Wartosc najlepszego rozwiazania: 27299
+Run #16
+Czas wykonania: 367 ms
+Wartosc najlepszego rozwiazania: 23327
+Run #17
+Czas wykonania: 359 ms
+Wartosc najlepszego rozwiazania: 25554
+Run #18
+Czas wykonania: 366 ms
+Wartosc najlepszego rozwiazania: 25212
+Run #19
+Czas wykonania: 367 ms
+Wartosc najlepszego rozwiazania: 22650
+Run #20
+Czas wykonania: 338 ms
+Wartosc najlepszego rozwiazania: 23286
+========================================================
+
+========================================================
+Testing T_init=1000.0, T_min=0.01, alpha=0.90, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 677 ms
+Wartosc najlepszego rozwiazania: 25806
+Run #2
+Czas wykonania: 678 ms
+Wartosc najlepszego rozwiazania: 26051
+Run #3
+Czas wykonania: 677 ms
+Wartosc najlepszego rozwiazania: 25902
+Run #4
+Czas wykonania: 678 ms
+Wartosc najlepszego rozwiazania: 25344
+Run #5
+Czas wykonania: 676 ms
+Wartosc najlepszego rozwiazania: 26602
+Run #6
+Czas wykonania: 703 ms
+Wartosc najlepszego rozwiazania: 26500
+Run #7
+Czas wykonania: 704 ms
+Wartosc najlepszego rozwiazania: 25856
+Run #8
+Czas wykonania: 702 ms
+Wartosc najlepszego rozwiazania: 25711
+Run #9
+Czas wykonania: 704 ms
+Wartosc najlepszego rozwiazania: 25283
+Run #10
+Czas wykonania: 704 ms
+Wartosc najlepszego rozwiazania: 25967
+Run #11
+Czas wykonania: 703 ms
+Wartosc najlepszego rozwiazania: 25888
+Run #12
+Czas wykonania: 703 ms
+Wartosc najlepszego rozwiazania: 25856
+Run #13
+Czas wykonania: 703 ms
+Wartosc najlepszego rozwiazania: 24925
+Run #14
+Czas wykonania: 706 ms
+Wartosc najlepszego rozwiazania: 26487
+Run #15
+Czas wykonania: 704 ms
+Wartosc najlepszego rozwiazania: 26806
+Run #16
+Czas wykonania: 705 ms
+Wartosc najlepszego rozwiazania: 25285
+Run #17
+Czas wykonania: 704 ms
+Wartosc najlepszego rozwiazania: 25384
+Run #18
+Czas wykonania: 703 ms
+Wartosc najlepszego rozwiazania: 25509
+Run #19
+Czas wykonania: 708 ms
+Wartosc najlepszego rozwiazania: 26069
+Run #20
+Czas wykonania: 705 ms
+Wartosc najlepszego rozwiazania: 24527
+========================================================
+
+========================================================
+Testing T_init=1000.0, T_min=0.01, alpha=0.95, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 720 ms
+Wartosc najlepszego rozwiazania: 26292
+Run #2
+Czas wykonania: 718 ms
+Wartosc najlepszego rozwiazania: 25302
+Run #3
+Czas wykonania: 720 ms
+Wartosc najlepszego rozwiazania: 27031
+Run #4
+Czas wykonania: 719 ms
+Wartosc najlepszego rozwiazania: 26238
+Run #5
+Czas wykonania: 718 ms
+Wartosc najlepszego rozwiazania: 25172
+Run #6
+Czas wykonania: 719 ms
+Wartosc najlepszego rozwiazania: 26651
+Run #7
+Czas wykonania: 716 ms
+Wartosc najlepszego rozwiazania: 26473
+Run #8
+Czas wykonania: 719 ms
+Wartosc najlepszego rozwiazania: 25569
+Run #9
+Czas wykonania: 721 ms
+Wartosc najlepszego rozwiazania: 27479
+Run #10
+Czas wykonania: 719 ms
+Wartosc najlepszego rozwiazania: 26763
+Run #11
+Czas wykonania: 718 ms
+Wartosc najlepszego rozwiazania: 26694
+Run #12
+Czas wykonania: 718 ms
+Wartosc najlepszego rozwiazania: 26892
+Run #13
+Czas wykonania: 720 ms
+Wartosc najlepszego rozwiazania: 26515
+Run #14
+Czas wykonania: 708 ms
+Wartosc najlepszego rozwiazania: 26657
+Run #15
+Czas wykonania: 719 ms
+Wartosc najlepszego rozwiazania: 26321
+Run #16
+Czas wykonania: 720 ms
+Wartosc najlepszego rozwiazania: 27163
+Run #17
+Czas wykonania: 723 ms
+Wartosc najlepszego rozwiazania: 25259
+Run #18
+Czas wykonania: 706 ms
+Wartosc najlepszego rozwiazania: 26841
+Run #19
+Czas wykonania: 721 ms
+Wartosc najlepszego rozwiazania: 26064
+Run #20
+Czas wykonania: 718 ms
+Wartosc najlepszego rozwiazania: 26306
+========================================================
+
+========================================================
+Testing T_init=1000.0, T_min=0.01, alpha=0.95, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 1406 ms
+Wartosc najlepszego rozwiazania: 27750
+Run #2
+Czas wykonania: 1412 ms
+Wartosc najlepszego rozwiazania: 27511
+Run #3
+Czas wykonania: 1415 ms
+Wartosc najlepszego rozwiazania: 26964
+Run #4
+Czas wykonania: 1382 ms
+Wartosc najlepszego rozwiazania: 26527
+Run #5
+Czas wykonania: 1382 ms
+Wartosc najlepszego rozwiazania: 27569
+Run #6
+Czas wykonania: 1384 ms
+Wartosc najlepszego rozwiazania: 27278
+Run #7
+Czas wykonania: 1382 ms
+Wartosc najlepszego rozwiazania: 26992
+Run #8
+Czas wykonania: 1413 ms
+Wartosc najlepszego rozwiazania: 26665
+Run #9
+Czas wykonania: 1407 ms
+Wartosc najlepszego rozwiazania: 26238
+Run #10
+Czas wykonania: 1382 ms
+Wartosc najlepszego rozwiazania: 27248
+Run #11
+Czas wykonania: 1412 ms
+Wartosc najlepszego rozwiazania: 27045
+Run #12
+Czas wykonania: 1412 ms
+Wartosc najlepszego rozwiazania: 27729
+Run #13
+Czas wykonania: 1411 ms
+Wartosc najlepszego rozwiazania: 27830
+Run #14
+Czas wykonania: 1413 ms
+Wartosc najlepszego rozwiazania: 25299
+Run #15
+Czas wykonania: 1412 ms
+Wartosc najlepszego rozwiazania: 28167
+Run #16
+Czas wykonania: 1401 ms
+Wartosc najlepszego rozwiazania: 28077
+Run #17
+Czas wykonania: 1409 ms
+Wartosc najlepszego rozwiazania: 28323
+Run #18
+Czas wykonania: 1411 ms
+Wartosc najlepszego rozwiazania: 25687
+Run #19
+Czas wykonania: 1409 ms
+Wartosc najlepszego rozwiazania: 26286
+Run #20
+Czas wykonania: 1414 ms
+Wartosc najlepszego rozwiazania: 27875
+========================================================
+
+========================================================
+Testing T_init=1000.0, T_min=0.01, alpha=0.99, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 3547 ms
+Wartosc najlepszego rozwiazania: 27717
+Run #2
+Czas wykonania: 3522 ms
+Wartosc najlepszego rozwiazania: 26717
+Run #3
+Czas wykonania: 3511 ms
+Wartosc najlepszego rozwiazania: 25880
+Run #4
+Czas wykonania: 3519 ms
+Wartosc najlepszego rozwiazania: 27550
+Run #5
+Czas wykonania: 3518 ms
+Wartosc najlepszego rozwiazania: 28223
+Run #6
+Czas wykonania: 3543 ms
+Wartosc najlepszego rozwiazania: 28416
+Run #7
+Czas wykonania: 3559 ms
+Wartosc najlepszego rozwiazania: 26219
+Run #8
+Czas wykonania: 3555 ms
+Wartosc najlepszego rozwiazania: 27580
+Run #9
+Czas wykonania: 3553 ms
+Wartosc najlepszego rozwiazania: 27262
+Run #10
+Czas wykonania: 3570 ms
+Wartosc najlepszego rozwiazania: 27295
+Run #11
+Czas wykonania: 3546 ms
+Wartosc najlepszego rozwiazania: 27368
+Run #12
+Czas wykonania: 3575 ms
+Wartosc najlepszego rozwiazania: 27883
+Run #13
+Czas wykonania: 3547 ms
+Wartosc najlepszego rozwiazania: 26662
+Run #14
+Czas wykonania: 3552 ms
+Wartosc najlepszego rozwiazania: 26771
+Run #15
+Czas wykonania: 3550 ms
+Wartosc najlepszego rozwiazania: 27264
+Run #16
+Czas wykonania: 3556 ms
+Wartosc najlepszego rozwiazania: 28077
+Run #17
+Czas wykonania: 3553 ms
+Wartosc najlepszego rozwiazania: 26327
+Run #18
+Czas wykonania: 3554 ms
+Wartosc najlepszego rozwiazania: 28091
+Run #19
+Czas wykonania: 3552 ms
+Wartosc najlepszego rozwiazania: 27130
+Run #20
+Czas wykonania: 3554 ms
+Wartosc najlepszego rozwiazania: 27039
+========================================================
+
+========================================================
+Testing T_init=1000.0, T_min=0.01, alpha=0.99, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 7078 ms
+Wartosc najlepszego rozwiazania: 28005
+Run #2
+Czas wykonania: 7083 ms
+Wartosc najlepszego rozwiazania: 27073
+Run #3
+Czas wykonania: 7072 ms
+Wartosc najlepszego rozwiazania: 27598
+Run #4
+Czas wykonania: 7077 ms
+Wartosc najlepszego rozwiazania: 28399
+Run #5
+Czas wykonania: 7078 ms
+Wartosc najlepszego rozwiazania: 27336
+Run #6
+Czas wykonania: 7092 ms
+Wartosc najlepszego rozwiazania: 27925
+Run #7
+Czas wykonania: 7082 ms
+Wartosc najlepszego rozwiazania: 28446
+Run #8
+Czas wykonania: 7089 ms
+Wartosc najlepszego rozwiazania: 26809
+Run #9
+Czas wykonania: 7081 ms
+Wartosc najlepszego rozwiazania: 27170
+Run #10
+Czas wykonania: 7076 ms
+Wartosc najlepszego rozwiazania: 28298
+Run #11
+Czas wykonania: 7077 ms
+Wartosc najlepszego rozwiazania: 28576
+Run #12
+Czas wykonania: 7026 ms
+Wartosc najlepszego rozwiazania: 28061
+Run #13
+Czas wykonania: 7081 ms
+Wartosc najlepszego rozwiazania: 27854
+Run #14
+Czas wykonania: 7084 ms
+Wartosc najlepszego rozwiazania: 28435
+Run #15
+Czas wykonania: 7057 ms
+Wartosc najlepszego rozwiazania: 27875
+Run #16
+Czas wykonania: 7090 ms
+Wartosc najlepszego rozwiazania: 27727
+Run #17
+Czas wykonania: 7085 ms
+Wartosc najlepszego rozwiazania: 28232
+Run #18
+Czas wykonania: 7077 ms
+Wartosc najlepszego rozwiazania: 27955
+Run #19
+Czas wykonania: 7072 ms
+Wartosc najlepszego rozwiazania: 27702
+Run #20
+Czas wykonania: 7074 ms
+Wartosc najlepszego rozwiazania: 27604
+========================================================
+
+========================================================
+Testing T_init=1000.0, T_min=0.1, alpha=0.90, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 296 ms
+Wartosc najlepszego rozwiazania: 23275
+Run #2
+Czas wykonania: 270 ms
+Wartosc najlepszego rozwiazania: 25168
+Run #3
+Czas wykonania: 295 ms
+Wartosc najlepszego rozwiazania: 23286
+Run #4
+Czas wykonania: 271 ms
+Wartosc najlepszego rozwiazania: 24375
+Run #5
+Czas wykonania: 296 ms
+Wartosc najlepszego rozwiazania: 26476
+Run #6
+Czas wykonania: 297 ms
+Wartosc najlepszego rozwiazania: 26932
+Run #7
+Czas wykonania: 271 ms
+Wartosc najlepszego rozwiazania: 25437
+Run #8
+Czas wykonania: 297 ms
+Wartosc najlepszego rozwiazania: 20108
+Run #9
+Czas wykonania: 294 ms
+Wartosc najlepszego rozwiazania: 26465
+Run #10
+Czas wykonania: 297 ms
+Wartosc najlepszego rozwiazania: 24439
+Run #11
+Czas wykonania: 306 ms
+Wartosc najlepszego rozwiazania: 19212
+Run #12
+Czas wykonania: 297 ms
+Wartosc najlepszego rozwiazania: 19973
+Run #13
+Czas wykonania: 296 ms
+Wartosc najlepszego rozwiazania: 22990
+Run #14
+Czas wykonania: 271 ms
+Wartosc najlepszego rozwiazania: 22365
+Run #15
+Czas wykonania: 270 ms
+Wartosc najlepszego rozwiazania: 24667
+Run #16
+Czas wykonania: 298 ms
+Wartosc najlepszego rozwiazania: 24874
+Run #17
+Czas wykonania: 299 ms
+Wartosc najlepszego rozwiazania: 26606
+Run #18
+Czas wykonania: 296 ms
+Wartosc najlepszego rozwiazania: 24932
+Run #19
+Czas wykonania: 270 ms
+Wartosc najlepszego rozwiazania: 22750
+Run #20
+Czas wykonania: 271 ms
+Wartosc najlepszego rozwiazania: 22989
+========================================================
+
+========================================================
+Testing T_init=1000.0, T_min=0.1, alpha=0.90, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 542 ms
+Wartosc najlepszego rozwiazania: 26852
+Run #2
+Czas wykonania: 541 ms
+Wartosc najlepszego rozwiazania: 27018
+Run #3
+Czas wykonania: 540 ms
+Wartosc najlepszego rozwiazania: 28094
+Run #4
+Czas wykonania: 570 ms
+Wartosc najlepszego rozwiazania: 26870
+Run #5
+Czas wykonania: 541 ms
+Wartosc najlepszego rozwiazania: 24919
+Run #6
+Czas wykonania: 568 ms
+Wartosc najlepszego rozwiazania: 26553
+Run #7
+Czas wykonania: 570 ms
+Wartosc najlepszego rozwiazania: 27503
+Run #8
+Czas wykonania: 566 ms
+Wartosc najlepszego rozwiazania: 26482
+Run #9
+Czas wykonania: 568 ms
+Wartosc najlepszego rozwiazania: 27566
+Run #10
+Czas wykonania: 568 ms
+Wartosc najlepszego rozwiazania: 27040
+Run #11
+Czas wykonania: 570 ms
+Wartosc najlepszego rozwiazania: 26148
+Run #12
+Czas wykonania: 570 ms
+Wartosc najlepszego rozwiazania: 25329
+Run #13
+Czas wykonania: 542 ms
+Wartosc najlepszego rozwiazania: 26804
+Run #14
+Czas wykonania: 544 ms
+Wartosc najlepszego rozwiazania: 27162
+Run #15
+Czas wykonania: 568 ms
+Wartosc najlepszego rozwiazania: 25806
+Run #16
+Czas wykonania: 540 ms
+Wartosc najlepszego rozwiazania: 24594
+Run #17
+Czas wykonania: 569 ms
+Wartosc najlepszego rozwiazania: 24960
+Run #18
+Czas wykonania: 566 ms
+Wartosc najlepszego rozwiazania: 26084
+Run #19
+Czas wykonania: 570 ms
+Wartosc najlepszego rozwiazania: 23518
+Run #20
+Czas wykonania: 568 ms
+Wartosc najlepszego rozwiazania: 27934
+========================================================
+
+========================================================
+Testing T_init=1000.0, T_min=0.1, alpha=0.95, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 581 ms
+Wartosc najlepszego rozwiazania: 25072
+Run #2
+Czas wykonania: 555 ms
+Wartosc najlepszego rozwiazania: 26167
+Run #3
+Czas wykonania: 555 ms
+Wartosc najlepszego rozwiazania: 27975
+Run #4
+Czas wykonania: 585 ms
+Wartosc najlepszego rozwiazania: 26106
+Run #5
+Czas wykonania: 575 ms
+Wartosc najlepszego rozwiazania: 27281
+Run #6
+Czas wykonania: 581 ms
+Wartosc najlepszego rozwiazania: 27431
+Run #7
+Czas wykonania: 581 ms
+Wartosc najlepszego rozwiazania: 26944
+Run #8
+Czas wykonania: 580 ms
+Wartosc najlepszego rozwiazania: 27277
+Run #9
+Czas wykonania: 554 ms
+Wartosc najlepszego rozwiazania: 27116
+Run #10
+Czas wykonania: 575 ms
+Wartosc najlepszego rozwiazania: 27291
+Run #11
+Czas wykonania: 581 ms
+Wartosc najlepszego rozwiazania: 26205
+Run #12
+Czas wykonania: 581 ms
+Wartosc najlepszego rozwiazania: 24863
+Run #13
+Czas wykonania: 553 ms
+Wartosc najlepszego rozwiazania: 28550
+Run #14
+Czas wykonania: 555 ms
+Wartosc najlepszego rozwiazania: 26040
+Run #15
+Czas wykonania: 553 ms
+Wartosc najlepszego rozwiazania: 25605
+Run #16
+Czas wykonania: 555 ms
+Wartosc najlepszego rozwiazania: 27708
+Run #17
+Czas wykonania: 581 ms
+Wartosc najlepszego rozwiazania: 25927
+Run #18
+Czas wykonania: 554 ms
+Wartosc najlepszego rozwiazania: 23582
+Run #19
+Czas wykonania: 581 ms
+Wartosc najlepszego rozwiazania: 27682
+Run #20
+Czas wykonania: 553 ms
+Wartosc najlepszego rozwiazania: 25358
+========================================================
+
+========================================================
+Testing T_init=1000.0, T_min=0.1, alpha=0.95, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 1137 ms
+Wartosc najlepszego rozwiazania: 25727
+Run #2
+Czas wykonania: 1136 ms
+Wartosc najlepszego rozwiazania: 25488
+Run #3
+Czas wykonania: 1107 ms
+Wartosc najlepszego rozwiazania: 26517
+Run #4
+Czas wykonania: 1136 ms
+Wartosc najlepszego rozwiazania: 27557
+Run #5
+Czas wykonania: 1111 ms
+Wartosc najlepszego rozwiazania: 26502
+Run #6
+Czas wykonania: 1130 ms
+Wartosc najlepszego rozwiazania: 26511
+Run #7
+Czas wykonania: 1134 ms
+Wartosc najlepszego rozwiazania: 27966
+Run #8
+Czas wykonania: 1136 ms
+Wartosc najlepszego rozwiazania: 27926
+Run #9
+Czas wykonania: 1136 ms
+Wartosc najlepszego rozwiazania: 27432
+Run #10
+Czas wykonania: 1133 ms
+Wartosc najlepszego rozwiazania: 26463
+Run #11
+Czas wykonania: 1134 ms
+Wartosc najlepszego rozwiazania: 27699
+Run #12
+Czas wykonania: 1133 ms
+Wartosc najlepszego rozwiazania: 26855
+Run #13
+Czas wykonania: 1135 ms
+Wartosc najlepszego rozwiazania: 28035
+Run #14
+Czas wykonania: 1129 ms
+Wartosc najlepszego rozwiazania: 26910
+Run #15
+Czas wykonania: 1137 ms
+Wartosc najlepszego rozwiazania: 27382
+Run #16
+Czas wykonania: 1131 ms
+Wartosc najlepszego rozwiazania: 26309
+Run #17
+Czas wykonania: 1136 ms
+Wartosc najlepszego rozwiazania: 27528
+Run #18
+Czas wykonania: 1134 ms
+Wartosc najlepszego rozwiazania: 26429
+Run #19
+Czas wykonania: 1134 ms
+Wartosc najlepszego rozwiazania: 28069
+Run #20
+Czas wykonania: 1135 ms
+Wartosc najlepszego rozwiazania: 26393
+========================================================
+
+========================================================
+Testing T_init=1000.0, T_min=0.1, alpha=0.99, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 2822 ms
+Wartosc najlepszego rozwiazania: 27981
+Run #2
+Czas wykonania: 2837 ms
+Wartosc najlepszego rozwiazania: 28021
+Run #3
+Czas wykonania: 2849 ms
+Wartosc najlepszego rozwiazania: 27433
+Run #4
+Czas wykonania: 2845 ms
+Wartosc najlepszego rozwiazania: 27776
+Run #5
+Czas wykonania: 2847 ms
+Wartosc najlepszego rozwiazania: 27980
+Run #6
+Czas wykonania: 2850 ms
+Wartosc najlepszego rozwiazania: 27744
+Run #7
+Czas wykonania: 2854 ms
+Wartosc najlepszego rozwiazania: 27175
+Run #8
+Czas wykonania: 2835 ms
+Wartosc najlepszego rozwiazania: 28103
+Run #9
+Czas wykonania: 2849 ms
+Wartosc najlepszego rozwiazania: 27292
+Run #10
+Czas wykonania: 2854 ms
+Wartosc najlepszego rozwiazania: 27033
+Run #11
+Czas wykonania: 2853 ms
+Wartosc najlepszego rozwiazania: 27682
+Run #12
+Czas wykonania: 2852 ms
+Wartosc najlepszego rozwiazania: 28249
+Run #13
+Czas wykonania: 2846 ms
+Wartosc najlepszego rozwiazania: 28070
+Run #14
+Czas wykonania: 2846 ms
+Wartosc najlepszego rozwiazania: 26940
+Run #15
+Czas wykonania: 2849 ms
+Wartosc najlepszego rozwiazania: 28213
+Run #16
+Czas wykonania: 2848 ms
+Wartosc najlepszego rozwiazania: 27737
+Run #17
+Czas wykonania: 2842 ms
+Wartosc najlepszego rozwiazania: 26542
+Run #18
+Czas wykonania: 2851 ms
+Wartosc najlepszego rozwiazania: 27821
+Run #19
+Czas wykonania: 2849 ms
+Wartosc najlepszego rozwiazania: 27389
+Run #20
+Czas wykonania: 2846 ms
+Wartosc najlepszego rozwiazania: 27672
+========================================================
+
+========================================================
+Testing T_init=1000.0, T_min=0.1, alpha=0.99, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 5696 ms
+Wartosc najlepszego rozwiazania: 28421
+Run #2
+Czas wykonania: 5668 ms
+Wartosc najlepszego rozwiazania: 27642
+Run #3
+Czas wykonania: 5677 ms
+Wartosc najlepszego rozwiazania: 27566
+Run #4
+Czas wykonania: 5670 ms
+Wartosc najlepszego rozwiazania: 28190
+Run #5
+Czas wykonania: 5672 ms
+Wartosc najlepszego rozwiazania: 27819
+Run #6
+Czas wykonania: 5668 ms
+Wartosc najlepszego rozwiazania: 28638
+Run #7
+Czas wykonania: 5674 ms
+Wartosc najlepszego rozwiazania: 28053
+Run #8
+Czas wykonania: 5665 ms
+Wartosc najlepszego rozwiazania: 26068
+Run #9
+Czas wykonania: 5704 ms
+Wartosc najlepszego rozwiazania: 27939
+Run #10
+Czas wykonania: 5670 ms
+Wartosc najlepszego rozwiazania: 27291
+Run #11
+Czas wykonania: 5679 ms
+Wartosc najlepszego rozwiazania: 27560
+Run #12
+Czas wykonania: 5668 ms
+Wartosc najlepszego rozwiazania: 28393
+Run #13
+Czas wykonania: 5675 ms
+Wartosc najlepszego rozwiazania: 27942
+Run #14
+Czas wykonania: 5679 ms
+Wartosc najlepszego rozwiazania: 28311
+Run #15
+Czas wykonania: 5663 ms
+Wartosc najlepszego rozwiazania: 28097
+Run #16
+Czas wykonania: 5641 ms
+Wartosc najlepszego rozwiazania: 27401
+Run #17
+Czas wykonania: 5666 ms
+Wartosc najlepszego rozwiazania: 28096
+Run #18
+Czas wykonania: 5663 ms
+Wartosc najlepszego rozwiazania: 28055
+Run #19
+Czas wykonania: 5645 ms
+Wartosc najlepszego rozwiazania: 27797
+Run #20
+Czas wykonania: 5668 ms
+Wartosc najlepszego rozwiazania: 28199
+========================================================
+
+========================================================
+Testing T_init=1500.0, T_min=0.01, alpha=0.90, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 376 ms
+Wartosc najlepszego rozwiazania: 24927
+Run #2
+Czas wykonania: 351 ms
+Wartosc najlepszego rozwiazania: 24409
+Run #3
+Czas wykonania: 351 ms
+Wartosc najlepszego rozwiazania: 24875
+Run #4
+Czas wykonania: 350 ms
+Wartosc najlepszego rozwiazania: 25376
+Run #5
+Czas wykonania: 375 ms
+Wartosc najlepszego rozwiazania: 24177
+Run #6
+Czas wykonania: 351 ms
+Wartosc najlepszego rozwiazania: 23851
+Run #7
+Czas wykonania: 351 ms
+Wartosc najlepszego rozwiazania: 26641
+Run #8
+Czas wykonania: 351 ms
+Wartosc najlepszego rozwiazania: 26147
+Run #9
+Czas wykonania: 351 ms
+Wartosc najlepszego rozwiazania: 23063
+Run #10
+Czas wykonania: 351 ms
+Wartosc najlepszego rozwiazania: 25411
+Run #11
+Czas wykonania: 352 ms
+Wartosc najlepszego rozwiazania: 26575
+Run #12
+Czas wykonania: 351 ms
+Wartosc najlepszego rozwiazania: 25980
+Run #13
+Czas wykonania: 351 ms
+Wartosc najlepszego rozwiazania: 24752
+Run #14
+Czas wykonania: 350 ms
+Wartosc najlepszego rozwiazania: 28107
+Run #15
+Czas wykonania: 368 ms
+Wartosc najlepszego rozwiazania: 24355
+Run #16
+Czas wykonania: 377 ms
+Wartosc najlepszego rozwiazania: 24811
+Run #17
+Czas wykonania: 377 ms
+Wartosc najlepszego rozwiazania: 26210
+Run #18
+Czas wykonania: 350 ms
+Wartosc najlepszego rozwiazania: 23495
+Run #19
+Czas wykonania: 378 ms
+Wartosc najlepszego rozwiazania: 25657
+Run #20
+Czas wykonania: 351 ms
+Wartosc najlepszego rozwiazania: 21753
+========================================================
+
+========================================================
+Testing T_init=1500.0, T_min=0.01, alpha=0.90, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 729 ms
+Wartosc najlepszego rozwiazania: 27550
+Run #2
+Czas wykonania: 727 ms
+Wartosc najlepszego rozwiazania: 26979
+Run #3
+Czas wykonania: 700 ms
+Wartosc najlepszego rozwiazania: 25210
+Run #4
+Czas wykonania: 732 ms
+Wartosc najlepszego rozwiazania: 25489
+Run #5
+Czas wykonania: 729 ms
+Wartosc najlepszego rozwiazania: 26363
+Run #6
+Czas wykonania: 702 ms
+Wartosc najlepszego rozwiazania: 27226
+Run #7
+Czas wykonania: 728 ms
+Wartosc najlepszego rozwiazania: 24731
+Run #8
+Czas wykonania: 728 ms
+Wartosc najlepszego rozwiazania: 26205
+Run #9
+Czas wykonania: 706 ms
+Wartosc najlepszego rozwiazania: 26466
+Run #10
+Czas wykonania: 701 ms
+Wartosc najlepszego rozwiazania: 27501
+Run #11
+Czas wykonania: 701 ms
+Wartosc najlepszego rozwiazania: 26504
+Run #12
+Czas wykonania: 728 ms
+Wartosc najlepszego rozwiazania: 25834
+Run #13
+Czas wykonania: 728 ms
+Wartosc najlepszego rozwiazania: 26020
+Run #14
+Czas wykonania: 728 ms
+Wartosc najlepszego rozwiazania: 27190
+Run #15
+Czas wykonania: 728 ms
+Wartosc najlepszego rozwiazania: 25444
+Run #16
+Czas wykonania: 727 ms
+Wartosc najlepszego rozwiazania: 26643
+Run #17
+Czas wykonania: 700 ms
+Wartosc najlepszego rozwiazania: 27456
+Run #18
+Czas wykonania: 701 ms
+Wartosc najlepszego rozwiazania: 27751
+Run #19
+Czas wykonania: 702 ms
+Wartosc najlepszego rozwiazania: 26556
+Run #20
+Czas wykonania: 723 ms
+Wartosc najlepszego rozwiazania: 25957
+========================================================
+
+========================================================
+Testing T_init=1500.0, T_min=0.01, alpha=0.95, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 718 ms
+Wartosc najlepszego rozwiazania: 27099
+Run #2
+Czas wykonania: 744 ms
+Wartosc najlepszego rozwiazania: 27509
+Run #3
+Czas wykonania: 717 ms
+Wartosc najlepszego rozwiazania: 25907
+Run #4
+Czas wykonania: 744 ms
+Wartosc najlepszego rozwiazania: 26864
+Run #5
+Czas wykonania: 717 ms
+Wartosc najlepszego rozwiazania: 25969
+Run #6
+Czas wykonania: 717 ms
+Wartosc najlepszego rozwiazania: 26815
+Run #7
+Czas wykonania: 742 ms
+Wartosc najlepszego rozwiazania: 27025
+Run #8
+Czas wykonania: 744 ms
+Wartosc najlepszego rozwiazania: 27157
+Run #9
+Czas wykonania: 744 ms
+Wartosc najlepszego rozwiazania: 26443
+Run #10
+Czas wykonania: 745 ms
+Wartosc najlepszego rozwiazania: 27076
+Run #11
+Czas wykonania: 717 ms
+Wartosc najlepszego rozwiazania: 26573
+Run #12
+Czas wykonania: 744 ms
+Wartosc najlepszego rozwiazania: 24489
+Run #13
+Czas wykonania: 742 ms
+Wartosc najlepszego rozwiazania: 23653
+Run #14
+Czas wykonania: 745 ms
+Wartosc najlepszego rozwiazania: 27089
+Run #15
+Czas wykonania: 715 ms
+Wartosc najlepszego rozwiazania: 25788
+Run #16
+Czas wykonania: 745 ms
+Wartosc najlepszego rozwiazania: 27048
+Run #17
+Czas wykonania: 743 ms
+Wartosc najlepszego rozwiazania: 24148
+Run #18
+Czas wykonania: 716 ms
+Wartosc najlepszego rozwiazania: 25419
+Run #19
+Czas wykonania: 742 ms
+Wartosc najlepszego rozwiazania: 26728
+Run #20
+Czas wykonania: 717 ms
+Wartosc najlepszego rozwiazania: 26516
+========================================================
+
+========================================================
+Testing T_init=1500.0, T_min=0.01, alpha=0.95, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 1463 ms
+Wartosc najlepszego rozwiazania: 27438
+Run #2
+Czas wykonania: 1469 ms
+Wartosc najlepszego rozwiazania: 27829
+Run #3
+Czas wykonania: 1436 ms
+Wartosc najlepszego rozwiazania: 26585
+Run #4
+Czas wykonania: 1460 ms
+Wartosc najlepszego rozwiazania: 27431
+Run #5
+Czas wykonania: 1461 ms
+Wartosc najlepszego rozwiazania: 26783
+Run #6
+Czas wykonania: 1461 ms
+Wartosc najlepszego rozwiazania: 26769
+Run #7
+Czas wykonania: 1464 ms
+Wartosc najlepszego rozwiazania: 27298
+Run #8
+Czas wykonania: 1435 ms
+Wartosc najlepszego rozwiazania: 27839
+Run #9
+Czas wykonania: 1475 ms
+Wartosc najlepszego rozwiazania: 27917
+Run #10
+Czas wykonania: 1456 ms
+Wartosc najlepszego rozwiazania: 27123
+Run #11
+Czas wykonania: 1461 ms
+Wartosc najlepszego rozwiazania: 27389
+Run #12
+Czas wykonania: 1463 ms
+Wartosc najlepszego rozwiazania: 27352
+Run #13
+Czas wykonania: 1466 ms
+Wartosc najlepszego rozwiazania: 27112
+Run #14
+Czas wykonania: 1460 ms
+Wartosc najlepszego rozwiazania: 26461
+Run #15
+Czas wykonania: 1461 ms
+Wartosc najlepszego rozwiazania: 26800
+Run #16
+Czas wykonania: 1458 ms
+Wartosc najlepszego rozwiazania: 27269
+Run #17
+Czas wykonania: 1436 ms
+Wartosc najlepszego rozwiazania: 27016
+Run #18
+Czas wykonania: 1459 ms
+Wartosc najlepszego rozwiazania: 25171
+Run #19
+Czas wykonania: 1482 ms
+Wartosc najlepszego rozwiazania: 27334
+Run #20
+Czas wykonania: 1439 ms
+Wartosc najlepszego rozwiazania: 27155
+========================================================
+
+========================================================
+Testing T_init=1500.0, T_min=0.01, alpha=0.99, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 3685 ms
+Wartosc najlepszego rozwiazania: 26578
+Run #2
+Czas wykonania: 3671 ms
+Wartosc najlepszego rozwiazania: 27532
+Run #3
+Czas wykonania: 3672 ms
+Wartosc najlepszego rozwiazania: 27326
+Run #4
+Czas wykonania: 3677 ms
+Wartosc najlepszego rozwiazania: 26622
+Run #5
+Czas wykonania: 3673 ms
+Wartosc najlepszego rozwiazania: 28010
+Run #6
+Czas wykonania: 3672 ms
+Wartosc najlepszego rozwiazania: 27278
+Run #7
+Czas wykonania: 3650 ms
+Wartosc najlepszego rozwiazania: 27680
+Run #8
+Czas wykonania: 3675 ms
+Wartosc najlepszego rozwiazania: 27721
+Run #9
+Czas wykonania: 3685 ms
+Wartosc najlepszego rozwiazania: 26800
+Run #10
+Czas wykonania: 3677 ms
+Wartosc najlepszego rozwiazania: 28117
+Run #11
+Czas wykonania: 3656 ms
+Wartosc najlepszego rozwiazania: 26881
+Run #12
+Czas wykonania: 3680 ms
+Wartosc najlepszego rozwiazania: 25769
+Run #13
+Czas wykonania: 3691 ms
+Wartosc najlepszego rozwiazania: 28009
+Run #14
+Czas wykonania: 3648 ms
+Wartosc najlepszego rozwiazania: 28555
+Run #15
+Czas wykonania: 3670 ms
+Wartosc najlepszego rozwiazania: 26941
+Run #16
+Czas wykonania: 3680 ms
+Wartosc najlepszego rozwiazania: 26837
+Run #17
+Czas wykonania: 3663 ms
+Wartosc najlepszego rozwiazania: 27779
+Run #18
+Czas wykonania: 3674 ms
+Wartosc najlepszego rozwiazania: 26590
+Run #19
+Czas wykonania: 3681 ms
+Wartosc najlepszego rozwiazania: 27033
+Run #20
+Czas wykonania: 3683 ms
+Wartosc najlepszego rozwiazania: 27855
+========================================================
+
+========================================================
+Testing T_init=1500.0, T_min=0.01, alpha=0.99, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 7320 ms
+Wartosc najlepszego rozwiazania: 28569
+Run #2
+Czas wykonania: 7323 ms
+Wartosc najlepszego rozwiazania: 28001
+Run #3
+Czas wykonania: 7322 ms
+Wartosc najlepszego rozwiazania: 27594
+Run #4
+Czas wykonania: 7322 ms
+Wartosc najlepszego rozwiazania: 27506
+Run #5
+Czas wykonania: 7334 ms
+Wartosc najlepszego rozwiazania: 27065
+Run #6
+Czas wykonania: 7338 ms
+Wartosc najlepszego rozwiazania: 28188
+Run #7
+Czas wykonania: 7300 ms
+Wartosc najlepszego rozwiazania: 28387
+Run #8
+Czas wykonania: 7298 ms
+Wartosc najlepszego rozwiazania: 27846
+Run #9
+Czas wykonania: 7335 ms
+Wartosc najlepszego rozwiazania: 28312
+Run #10
+Czas wykonania: 7328 ms
+Wartosc najlepszego rozwiazania: 26872
+Run #11
+Czas wykonania: 7316 ms
+Wartosc najlepszego rozwiazania: 28420
+Run #12
+Czas wykonania: 7303 ms
+Wartosc najlepszego rozwiazania: 27826
+Run #13
+Czas wykonania: 7300 ms
+Wartosc najlepszego rozwiazania: 27663
+Run #14
+Czas wykonania: 7318 ms
+Wartosc najlepszego rozwiazania: 28000
+Run #15
+Czas wykonania: 7327 ms
+Wartosc najlepszego rozwiazania: 27698
+Run #16
+Czas wykonania: 7334 ms
+Wartosc najlepszego rozwiazania: 27610
+Run #17
+Czas wykonania: 7335 ms
+Wartosc najlepszego rozwiazania: 27581
+Run #18
+Czas wykonania: 7321 ms
+Wartosc najlepszego rozwiazania: 28488
+Run #19
+Czas wykonania: 7344 ms
+Wartosc najlepszego rozwiazania: 28185
+Run #20
+Czas wykonania: 7297 ms
+Wartosc najlepszego rozwiazania: 28596
+========================================================
+
+========================================================
+Testing T_init=1500.0, T_min=0.1, alpha=0.90, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 310 ms
+Wartosc najlepszego rozwiazania: 25787
+Run #2
+Czas wykonania: 304 ms
+Wartosc najlepszego rozwiazania: 24404
+Run #3
+Czas wykonania: 309 ms
+Wartosc najlepszego rozwiazania: 21976
+Run #4
+Czas wykonania: 309 ms
+Wartosc najlepszego rozwiazania: 26430
+Run #5
+Czas wykonania: 310 ms
+Wartosc najlepszego rozwiazania: 23733
+Run #6
+Czas wykonania: 309 ms
+Wartosc najlepszego rozwiazania: 27546
+Run #7
+Czas wykonania: 308 ms
+Wartosc najlepszego rozwiazania: 24834
+Run #8
+Czas wykonania: 307 ms
+Wartosc najlepszego rozwiazania: 24924
+Run #9
+Czas wykonania: 308 ms
+Wartosc najlepszego rozwiazania: 26206
+Run #10
+Czas wykonania: 312 ms
+Wartosc najlepszego rozwiazania: 20393
+Run #11
+Czas wykonania: 309 ms
+Wartosc najlepszego rozwiazania: 25688
+Run #12
+Czas wykonania: 309 ms
+Wartosc najlepszego rozwiazania: 25581
+Run #13
+Czas wykonania: 297 ms
+Wartosc najlepszego rozwiazania: 27164
+Run #14
+Czas wykonania: 309 ms
+Wartosc najlepszego rozwiazania: 25189
+Run #15
+Czas wykonania: 282 ms
+Wartosc najlepszego rozwiazania: 25742
+Run #16
+Czas wykonania: 283 ms
+Wartosc najlepszego rozwiazania: 25522
+Run #17
+Czas wykonania: 283 ms
+Wartosc najlepszego rozwiazania: 23322
+Run #18
+Czas wykonania: 283 ms
+Wartosc najlepszego rozwiazania: 26736
+Run #19
+Czas wykonania: 283 ms
+Wartosc najlepszego rozwiazania: 25134
+Run #20
+Czas wykonania: 310 ms
+Wartosc najlepszego rozwiazania: 26004
+========================================================
+
+========================================================
+Testing T_init=1500.0, T_min=0.1, alpha=0.90, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 566 ms
+Wartosc najlepszego rozwiazania: 26359
+Run #2
+Czas wykonania: 566 ms
+Wartosc najlepszego rozwiazania: 25268
+Run #3
+Czas wykonania: 566 ms
+Wartosc najlepszego rozwiazania: 25980
+Run #4
+Czas wykonania: 592 ms
+Wartosc najlepszego rozwiazania: 25538
+Run #5
+Czas wykonania: 592 ms
+Wartosc najlepszego rozwiazania: 24242
+Run #6
+Czas wykonania: 592 ms
+Wartosc najlepszego rozwiazania: 26622
+Run #7
+Czas wykonania: 592 ms
+Wartosc najlepszego rozwiazania: 25823
+Run #8
+Czas wykonania: 592 ms
+Wartosc najlepszego rozwiazania: 26263
+Run #9
+Czas wykonania: 591 ms
+Wartosc najlepszego rozwiazania: 26993
+Run #10
+Czas wykonania: 586 ms
+Wartosc najlepszego rozwiazania: 25809
+Run #11
+Czas wykonania: 594 ms
+Wartosc najlepszego rozwiazania: 24918
+Run #12
+Czas wykonania: 594 ms
+Wartosc najlepszego rozwiazania: 25987
+Run #13
+Czas wykonania: 593 ms
+Wartosc najlepszego rozwiazania: 25729
+Run #14
+Czas wykonania: 566 ms
+Wartosc najlepszego rozwiazania: 26675
+Run #15
+Czas wykonania: 565 ms
+Wartosc najlepszego rozwiazania: 25491
+Run #16
+Czas wykonania: 566 ms
+Wartosc najlepszego rozwiazania: 25201
+Run #17
+Czas wykonania: 565 ms
+Wartosc najlepszego rozwiazania: 27440
+Run #18
+Czas wykonania: 590 ms
+Wartosc najlepszego rozwiazania: 28346
+Run #19
+Czas wykonania: 593 ms
+Wartosc najlepszego rozwiazania: 25821
+Run #20
+Czas wykonania: 593 ms
+Wartosc najlepszego rozwiazania: 25303
+========================================================
+
+========================================================
+Testing T_init=1500.0, T_min=0.1, alpha=0.95, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 605 ms
+Wartosc najlepszego rozwiazania: 24901
+Run #2
+Czas wykonania: 579 ms
+Wartosc najlepszego rozwiazania: 27995
+Run #3
+Czas wykonania: 605 ms
+Wartosc najlepszego rozwiazania: 25800
+Run #4
+Czas wykonania: 606 ms
+Wartosc najlepszego rozwiazania: 26240
+Run #5
+Czas wykonania: 606 ms
+Wartosc najlepszego rozwiazania: 27364
+Run #6
+Czas wykonania: 606 ms
+Wartosc najlepszego rozwiazania: 26873
+Run #7
+Czas wykonania: 578 ms
+Wartosc najlepszego rozwiazania: 27271
+Run #8
+Czas wykonania: 578 ms
+Wartosc najlepszego rozwiazania: 25480
+Run #9
+Czas wykonania: 604 ms
+Wartosc najlepszego rozwiazania: 24862
+Run #10
+Czas wykonania: 606 ms
+Wartosc najlepszego rozwiazania: 25544
+Run #11
+Czas wykonania: 604 ms
+Wartosc najlepszego rozwiazania: 26436
+Run #12
+Czas wykonania: 578 ms
+Wartosc najlepszego rozwiazania: 27797
+Run #13
+Czas wykonania: 579 ms
+Wartosc najlepszego rozwiazania: 25782
+Run #14
+Czas wykonania: 606 ms
+Wartosc najlepszego rozwiazania: 26132
+Run #15
+Czas wykonania: 578 ms
+Wartosc najlepszego rozwiazania: 26717
+Run #16
+Czas wykonania: 601 ms
+Wartosc najlepszego rozwiazania: 27208
+Run #17
+Czas wykonania: 579 ms
+Wartosc najlepszego rozwiazania: 26533
+Run #18
+Czas wykonania: 579 ms
+Wartosc najlepszego rozwiazania: 26424
+Run #19
+Czas wykonania: 604 ms
+Wartosc najlepszego rozwiazania: 26665
+Run #20
+Czas wykonania: 579 ms
+Wartosc najlepszego rozwiazania: 26275
+========================================================
+
+========================================================
+Testing T_init=1500.0, T_min=0.1, alpha=0.95, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 1184 ms
+Wartosc najlepszego rozwiazania: 27414
+Run #2
+Czas wykonania: 1184 ms
+Wartosc najlepszego rozwiazania: 26767
+Run #3
+Czas wykonania: 1184 ms
+Wartosc najlepszego rozwiazania: 26524
+Run #4
+Czas wykonania: 1183 ms
+Wartosc najlepszego rozwiazania: 26941
+Run #5
+Czas wykonania: 1185 ms
+Wartosc najlepszego rozwiazania: 27685
+Run #6
+Czas wykonania: 1185 ms
+Wartosc najlepszego rozwiazania: 26689
+Run #7
+Czas wykonania: 1187 ms
+Wartosc najlepszego rozwiazania: 26523
+Run #8
+Czas wykonania: 1183 ms
+Wartosc najlepszego rozwiazania: 27468
+Run #9
+Czas wykonania: 1184 ms
+Wartosc najlepszego rozwiazania: 27884
+Run #10
+Czas wykonania: 1186 ms
+Wartosc najlepszego rozwiazania: 26615
+Run #11
+Czas wykonania: 1156 ms
+Wartosc najlepszego rozwiazania: 28267
+Run #12
+Czas wykonania: 1186 ms
+Wartosc najlepszego rozwiazania: 26461
+Run #13
+Czas wykonania: 1186 ms
+Wartosc najlepszego rozwiazania: 26307
+Run #14
+Czas wykonania: 1182 ms
+Wartosc najlepszego rozwiazania: 26419
+Run #15
+Czas wykonania: 1182 ms
+Wartosc najlepszego rozwiazania: 26714
+Run #16
+Czas wykonania: 1185 ms
+Wartosc najlepszego rozwiazania: 26299
+Run #17
+Czas wykonania: 1155 ms
+Wartosc najlepszego rozwiazania: 27419
+Run #18
+Czas wykonania: 1184 ms
+Wartosc najlepszego rozwiazania: 26960
+Run #19
+Czas wykonania: 1158 ms
+Wartosc najlepszego rozwiazania: 27965
+Run #20
+Czas wykonania: 1184 ms
+Wartosc najlepszego rozwiazania: 26039
+========================================================
+
+========================================================
+Testing T_init=1500.0, T_min=0.1, alpha=0.99, max_iter=500
+--------------------------------------------------------
+Run #1
+Czas wykonania: 2971 ms
+Wartosc najlepszego rozwiazania: 28262
+Run #2
+Czas wykonania: 2944 ms
+Wartosc najlepszego rozwiazania: 26003
+Run #3
+Czas wykonania: 2944 ms
+Wartosc najlepszego rozwiazania: 27736
+Run #4
+Czas wykonania: 2968 ms
+Wartosc najlepszego rozwiazania: 25807
+Run #5
+Czas wykonania: 2976 ms
+Wartosc najlepszego rozwiazania: 27699
+Run #6
+Czas wykonania: 2988 ms
+Wartosc najlepszego rozwiazania: 28628
+Run #7
+Czas wykonania: 2969 ms
+Wartosc najlepszego rozwiazania: 27386
+Run #8
+Czas wykonania: 2945 ms
+Wartosc najlepszego rozwiazania: 27678
+Run #9
+Czas wykonania: 2971 ms
+Wartosc najlepszego rozwiazania: 27472
+Run #10
+Czas wykonania: 2946 ms
+Wartosc najlepszego rozwiazania: 27304
+Run #11
+Czas wykonania: 2947 ms
+Wartosc najlepszego rozwiazania: 27838
+Run #12
+Czas wykonania: 2972 ms
+Wartosc najlepszego rozwiazania: 28224
+Run #13
+Czas wykonania: 2941 ms
+Wartosc najlepszego rozwiazania: 27309
+Run #14
+Czas wykonania: 2942 ms
+Wartosc najlepszego rozwiazania: 27968
+Run #15
+Czas wykonania: 2953 ms
+Wartosc najlepszego rozwiazania: 26910
+Run #16
+Czas wykonania: 2943 ms
+Wartosc najlepszego rozwiazania: 28088
+Run #17
+Czas wykonania: 2970 ms
+Wartosc najlepszego rozwiazania: 28020
+Run #18
+Czas wykonania: 2971 ms
+Wartosc najlepszego rozwiazania: 26732
+Run #19
+Czas wykonania: 2979 ms
+Wartosc najlepszego rozwiazania: 27328
+Run #20
+Czas wykonania: 2965 ms
+Wartosc najlepszego rozwiazania: 27121
+========================================================
+
+========================================================
+Testing T_init=1500.0, T_min=0.1, alpha=0.99, max_iter=1000
+--------------------------------------------------------
+Run #1
+Czas wykonania: 5920 ms
+Wartosc najlepszego rozwiazania: 26647
+Run #2
+Czas wykonania: 5928 ms
+Wartosc najlepszego rozwiazania: 27834
+Run #3
+Czas wykonania: 5910 ms
+Wartosc najlepszego rozwiazania: 27733
+Run #4
+Czas wykonania: 5922 ms
+Wartosc najlepszego rozwiazania: 27861
+Run #5
+Czas wykonania: 5919 ms
+Wartosc najlepszego rozwiazania: 28252
+Run #6
+Czas wykonania: 5917 ms
+Wartosc najlepszego rozwiazania: 27254
+Run #7
+Czas wykonania: 5920 ms
+Wartosc najlepszego rozwiazania: 28170
+Run #8
+Czas wykonania: 5921 ms
+Wartosc najlepszego rozwiazania: 28316
+Run #9
+Czas wykonania: 5917 ms
+Wartosc najlepszego rozwiazania: 28498
+Run #10
+Czas wykonania: 5914 ms
+Wartosc najlepszego rozwiazania: 27863
+Run #11
+Czas wykonania: 5917 ms
+Wartosc najlepszego rozwiazania: 28248
+Run #12
+Czas wykonania: 5919 ms
+Wartosc najlepszego rozwiazania: 27978
+Run #13
+Czas wykonania: 5911 ms
+Wartosc najlepszego rozwiazania: 28021
+Run #14
+Czas wykonania: 5923 ms
+Wartosc najlepszego rozwiazania: 28403
+Run #15
+Czas wykonania: 5914 ms
+Wartosc najlepszego rozwiazania: 27865
+Run #16
+Czas wykonania: 5934 ms
+Wartosc najlepszego rozwiazania: 26814
+Run #17
+Czas wykonania: 5923 ms
+Wartosc najlepszego rozwiazania: 27870
+Run #18
+Czas wykonania: 5911 ms
+Wartosc najlepszego rozwiazania: 27521
+Run #19
+Czas wykonania: 5916 ms
+Wartosc najlepszego rozwiazania: 28095
+Run #20
+Czas wykonania: 5920 ms
+Wartosc najlepszego rozwiazania: 27940
+========================================================
+
